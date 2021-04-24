@@ -64,5 +64,9 @@ Inveigh.exe -Pcap Y -PcapTCP 80,445
 Screenshots
 
 
+<img src="https://github.com/Netw0rkLan/InveighZero/blob/main/InveighZero_2.png" alt="InveighZero_2.png" data-load="full" style="">
 
+  --- 
+  
+  <img src="https://github.com/Netw0rkLan/InveighZero/blob/main/InveighZero_3.png" alt="InveighZero_2.png" data-load="full" style="">
 
